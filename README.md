@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Web Development | Wordpress | Java | Python**
 
-- 📫 How to reach me **binaravidanage5@gmail.com**
+- 📫 How to reach me **binaravidanage5@gmail.com , https://binarasashrika.me/**
 
 - ⚡ Fun fact **Call me as KB** <br><br>
 
