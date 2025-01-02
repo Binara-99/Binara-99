@@ -40,10 +40,10 @@
 <h3 align="center">Connect with me:</h3><br>
 <p align="center">
 <a href="https://twitter.com/binaravida20349" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="binaravida20349" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/binara sashrika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="binara sashrika" height="30" width="40" /></a>
-<a href="https://fb.com/binara sashrika widanage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="binara sashrika widanage" height="30" width="40" /></a>
-<a href="https://instagram.com/bs_vidanage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bs_vidanage" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/back / coding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="back / coding" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/binara-sashrika-b676051a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="binara sashrika" height="30" width="40" /></a>
+<a href="https://web.facebook.com/binara.vidanage.73?mibextid=ZbWKwL&_rdc=1&_rdr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="binara sashrika widanage" height="30" width="40" /></a>
+<a href="https://www.instagram.com/bs_vidanage_/?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bs_vidanage" height="30" width="40" /></a>
+<a href="https://youtube.com/@back_coding?si=4CFXZAHbUcG9keEq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="back / coding" height="30" width="40" /></a>
 </p><br>
 <hr>
 <h3 align="center">Languages and Tools:</h3><br>
